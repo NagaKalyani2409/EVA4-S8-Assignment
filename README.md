@@ -5,7 +5,7 @@ Taken the model from https://github.com/kuangliu/pytorch-cifar/blob/master/model
 Added Image Augmentation.
 Total number of Parementers: 11,173,962
 No. Epoch : 20
-Accuracy  attained : 85.99 where the target accuracy given was 85%
+Accuracy  attained : 87.99 where the target accuracy given was 85%
 
 Link to the main file: https://github.com/NagaKalyani2409/EVA4-S8-Assignment/blob/master/ModularS8.ipynb
 
